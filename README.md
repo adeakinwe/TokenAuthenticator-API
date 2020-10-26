@@ -1,0 +1,1 @@
+A web API token-based authentication project using OWIN that implements http-interceptors to manage user session.
